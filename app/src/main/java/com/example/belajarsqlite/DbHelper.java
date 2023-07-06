@@ -57,7 +57,7 @@ public class DbHelper extends SQLiteOpenHelper {
 
         ArrayList<MhsModel> mhsList = new ArrayList<>();
 
-        if(cursor.getCount()> 0){
+        if(cursor.getCount()>= 0){
             while(cursor.moveToNext()){
                 int id = cursor.getInt(0);
                 String nama = cursor.getString(1);
