@@ -1,9 +1,9 @@
-# Nama : Muhammad wisnu saputro
+Nama : Maryan Chandra Wibowo
 
-# NIM : G.211.20.0031
+NIM : G.211.20.0047
 
-# Kelas : A2
+Kelas : A2
 
-Mobile Programming UAS SQLite
+UAS Mobile Programming 
 
 Selamat datang di repositori UAS Mobile Programming! Repositori ini berisi proyek UAS saya untuk mata kuliah Mobile Programming.
